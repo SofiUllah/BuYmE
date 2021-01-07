@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/spring-beans.jar"/>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/spring-context.jar"/>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/spring-core.jar"/>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/spring-jdbc-3.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="G:/LICT/..LICT_Soft/Spring/Spring jaar/tomcat-dbcp.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
